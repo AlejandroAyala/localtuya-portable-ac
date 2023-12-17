@@ -104,6 +104,8 @@ CONF_ECO_DP = "eco_dp"
 CONF_ECO_VALUE = "eco_value"
 CONF_FAN_ACTION_DP = "fan_dp"
 CONF_FAN_ACTION_SET = "fan_action_set"
+CONF_SWING_ACTION_DP = "swing_action_dp"
+CONF_SWING_ACTION_SET = "swing_action_set"
 
 # vacuum
 CONF_POWERGO_DP = "powergo_dp"
